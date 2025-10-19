@@ -1,0 +1,282 @@
+================================================================================
+CHECKLIST DE DATOS EXTERNOS A INVESTIGAR
+Para enriquecer el Análisis de Medios de Pago - Estambul
+================================================================================
+
+EQUIPO: Paola García, Pablo Taborda, Julio Orjindo, Rodenas Elías Gabriel
+FECHA: Octubre 2025
+PROYECTO: Consultoría Estratégica para Entidad Financiera
+
+================================================================================
+CATEGORÍA 1: DATOS DEMOGRÁFICOS Y POBLACIONALES DE TURQUÍA
+================================================================================
+
+1.1 POBLACIÓN Y DISTRIBUCIÓN
+□ Población total de Turquía (2021-2023)
+□ Población de Estambul específicamente
+□ Densidad poblacional por distrito en Estambul
+□ Distribución por grupos de edad (especialmente 25-50 años)
+□ Tasa de crecimiento poblacional anual
+
+1.2 DATOS SOCIOECONÓMICOS
+□ Ingreso promedio per cápita en Turquía
+□ Ingreso promedio en Estambul vs resto del país
+□ Distribución de ingresos por quintiles
+□ Tasa de desempleo
+□ Poder adquisitivo por zona/distrito
+□ Clase media: porcentaje de la población
+
+1.3 EDUCACIÓN Y DIGITALIZACIÓN
+□ Nivel de alfabetización digital
+□ Penetración de smartphones (%)
+□ Uso de internet móvil
+□ Adopción de e-commerce (%)
+
+================================================================================
+CATEGORÍA 2: SISTEMA FINANCIERO Y MEDIOS DE PAGO
+================================================================================
+
+2.1 INFRAESTRUCTURA BANCARIA
+□ Número de bancos operando en Turquía
+□ Principales entidades financieras (market share)
+□ Número de sucursales bancarias en Estambul
+□ Número de cajeros automáticos
+□ Tasa de bancarización (% población con cuenta bancaria)
+
+2.2 TARJETAS DE CRÉDITO Y DÉBITO
+□ Tarjetas de crédito en circulación (total)
+□ Tarjetas de débito en circulación (total)
+□ Tarjetas por habitante (ratio)
+□ Volumen de transacciones con tarjetas (2021-2023)
+□ Ticket promedio con tarjeta en retail
+□ Tasas de interés promedio de tarjetas de crédito
+□ Límites de crédito promedio
+
+2.3 TENDENCIAS DE PAGO
+□ Evolución de pagos en efectivo vs digitales (últimos 3 años)
+□ Adopción de pagos contactless/NFC (%)
+□ Uso de billeteras digitales (Apple Pay, Google Pay, etc.)
+□ Penetración de QR codes para pagos
+□ Buy Now Pay Later (BNPL): adopción en el mercado
+
+2.4 COMPETENCIA Y REGULACIÓN
+□ Principales emisores de tarjetas (Visa, Mastercard, Troy)
+□ Market share por emisor
+□ Regulaciones del Banco Central sobre medios de pago
+□ Comisiones de intercambio (interchange fees) permitidas
+□ Programas de fidelización más populares
+
+================================================================================
+CATEGORÍA 3: SECTOR RETAIL Y COMERCIO
+================================================================================
+
+3.1 MERCADO DE SHOPPING MALLS
+□ Número total de shopping malls en Estambul
+□ Tráfico promedio mensual por mall (visitantes)
+□ Ventas totales del sector retail en Estambul
+□ Evolución del retail 2021-2023 (crecimiento/caída)
+□ Participación de malls vs comercio tradicional
+
+3.2 UBICACIÓN DE LOS 10 SHOPPING MALLS DEL DATASET
+Para cada mall (Mall of Istanbul, Kanyon, Metrocity, etc.):
+□ Ubicación exacta (distrito/zona)
+□ Perfil socioeconómico de la zona
+□ Accesibilidad (metro, autobús, estacionamiento)
+□ Número de tiendas
+□ Principales retailers ancla
+□ Categorías de productos dominantes
+
+3.3 COMPORTAMIENTO DEL CONSUMIDOR
+□ Frecuencia de visita a shopping malls
+□ Gasto promedio por visita
+□ Día de la semana con mayor tráfico
+□ Horarios pico de compra
+□ Preferencias por categoría de producto
+□ Estacionalidad de compras (temporadas altas/bajas)
+
+================================================================================
+CATEGORÍA 4: ECONOMÍA Y CONTEXTO MACROECONÓMICO
+================================================================================
+
+4.1 INDICADORES ECONÓMICOS
+□ PIB de Turquía (2021-2023)
+□ Tasa de inflación anual
+□ Tipo de cambio Lira Turca vs USD/EUR (evolución)
+□ Tasa de crecimiento económico
+□ Índice de confianza del consumidor
+
+4.2 IMPACTO ECONÓMICO EN CONSUMO
+□ Efecto de la inflación en poder adquisitivo
+□ Cambios en patrones de consumo por crisis económica
+□ Preferencia por efectivo en contextos inflacionarios
+□ Uso de crédito vs ahorro
+
+================================================================================
+CATEGORÍA 5: TECNOLOGÍA Y DIGITAL
+================================================================================
+
+5.1 INFRAESTRUCTURA TECNOLÓGICA
+□ Cobertura de internet en Estambul (%)
+□ Velocidad promedio de internet
+□ Penetración de 4G/5G
+□ Adopción de IoT en retail
+
+5.2 FINTECH Y INNOVACIÓN
+□ Principales fintech operando en Turquía
+□ Inversión en fintech (2021-2023)
+□ Regulación de fintech y pagos digitales
+□ Proyectos piloto de pagos biométricos
+□ Uso de criptomonedas (% de población)
+
+================================================================================
+CATEGORÍA 6: COMPETIDORES Y BENCHMARKING
+================================================================================
+
+6.1 MEJORES PRÁCTICAS INTERNACIONALES
+□ Casos de éxito en digitalización de pagos (otros países)
+□ Estrategias de migración efectivo → digital
+□ Programas de incentivos que funcionaron
+□ Tasas de adopción en mercados similares
+
+6.2 COMPETENCIA LOCAL
+□ Programas de fidelización de competidores
+□ Descuentos y promociones vigentes
+□ Alianzas entre bancos y retailers
+□ Innovaciones recientes en medios de pago
+
+================================================================================
+CATEGORÍA 7: DATOS CULTURALES Y SOCIALES
+================================================================================
+
+7.1 HÁBITOS Y PREFERENCIAS
+□ Cultura de uso de efectivo en Turquía (histórico)
+□ Confianza en instituciones financieras
+□ Percepción de seguridad de pagos digitales
+□ Barreras para adopción de nuevas tecnologías
+
+7.2 SEGMENTACIÓN DE GÉNERO
+□ Participación laboral femenina (%)
+□ Poder de decisión de compra por género
+□ Diferencias culturales en uso de medios de pago
+
+================================================================================
+CATEGORÍA 8: DATOS LEGALES Y REGULATORIOS
+================================================================================
+
+8.1 MARCO LEGAL
+□ Ley de protección de datos personales
+□ Regulación de comercio electrónico
+□ Normativas de seguridad PCI-DSS
+□ Requisitos KYC (Know Your Customer)
+
+8.2 INCENTIVOS GUBERNAMENTALES
+□ Subsidios o incentivos para digitalización
+□ Reducción de impuestos por uso de medios digitales
+□ Campañas gubernamentales de educación financiera
+
+================================================================================
+PRIORIZACIÓN DE DATOS
+================================================================================
+
+⭐⭐⭐ CRÍTICOS (Investigar PRIMERO):
+1. Tasas de bancarización y tarjetas en circulación
+2. Ubicación y perfil socioeconómico de los 10 malls
+3. Evolución efectivo vs digital (2021-2023)
+4. Tasa de inflación y tipo de cambio
+5. Market share de entidades financieras
+
+⭐⭐ IMPORTANTES (Investigar SEGUNDO):
+6. Población y distribución demográfica Estambul
+7. Principales competidores y sus estrategias
+8. Regulación de medios de pago
+9. Penetración de smartphones y digital
+10. Comportamiento del consumidor en retail
+
+⭐ COMPLEMENTARIOS (Si hay tiempo):
+11. Fintech y innovación local
+12. Datos culturales sobre efectivo
+13. Mejores prácticas internacionales
+14. Infraestructura tecnológica detallada
+15. Proyecciones económicas futuras
+
+================================================================================
+FUENTES SUGERIDAS PARA INVESTIGACIÓN
+================================================================================
+
+INSTITUCIONALES:
+□ Banco Central de la República de Turquía (CBRT)
+□ Instituto Estadístico de Turquía (TurkStat)
+□ Asociación de Bancos de Turquía
+□ Ministerio de Comercio de Turquía
+
+FINANCIERAS:
+□ Visa, Mastercard - Reportes de mercado Turquía
+□ Bancos principales: İş Bankası, Garanti BBVA, Akbank
+□ Asociación de Tarjetas de Pago de Turquía
+
+RETAIL Y CONSUMO:
+□ Asociación de Shopping Centers de Turquía
+□ Nielsen - Consumer Insights Turquía
+□ Euromonitor - Retail Analytics
+□ Statista - Retail & E-commerce
+
+ACADÉMICAS Y CONSULTORÍA:
+□ World Bank - Turkey Economic Reports
+□ McKinsey - Digital Banking Reports
+□ Deloitte - Consumer Trends
+□ PwC - FinTech Reports
+
+DIGITALES:
+□ We Are Social - Digital Report Turkey
+□ Hootsuite - Social Media Stats
+□ Google - Consumer Barometer
+
+================================================================================
+FORMATO DE RECOPILACIÓN
+================================================================================
+
+Para cada dato investigado, documentar:
+
+DATO: [Nombre del indicador]
+FUENTE: [Nombre de la fuente + URL]
+FECHA: [Período del dato]
+VALOR: [Número o descripción]
+RELEVANCIA: [Cómo impacta el análisis]
+
+Ejemplo:
+DATO: Tarjetas de crédito en circulación Turquía
+FUENTE: Banco Central de Turquía - Estadísticas Mensuales
+        https://www.tcmb.gov.tr/
+FECHA: Diciembre 2022
+VALOR: 68.5 millones de tarjetas
+RELEVANCIA: Permite calcular penetración y potencial de mercado
+
+================================================================================
+ENTREGABLE FINAL
+================================================================================
+
+Crear un documento:
+"DATOS_EXTERNOS_INVESTIGADOS.docx"
+
+Con secciones:
+1. Resumen ejecutivo de hallazgos clave
+2. Tablas con todos los datos recopilados
+3. Gráficos comparativos
+4. Fuentes bibliográficas completas
+5. Análisis de implicancias para el proyecto
+
+Este documento se adjuntará al informe final como ANEXO.
+
+================================================================================
+NOTAS IMPORTANTES
+================================================================================
+
+- Priorizar datos de 2021-2023 (período del dataset)
+- Buscar fuentes oficiales y verificables
+- Documentar SIEMPRE la fuente (para bibliografía)
+- Si no encuentras un dato, indicar "No disponible" con justificación
+- Algunos datos pueden estar en turco: usar traductor
+
+================================================================================
+FIN DEL CHECKLIST
+================================================================================
