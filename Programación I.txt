@@ -1,0 +1,77 @@
+Programación I
+Fundamentos y Temario:
+
+Fundamentos de la Programación e Introducción al Lenguaje
+
+Estructura básica de un programa
+
+Tipos de datos y variables
+
+Operadores
+
+Estructuras de control: decisiones (if/else) y ciclos (for/while)
+
+Funciones y modularidad
+
+Introducción a la Programación Orientada a Objetos (POO): clases, objetos, atributos y métodos
+
+POO en Python: sintaxis y estructura
+
+Principios de POO: Herencia, encapsulamiento y polimorfismo
+
+Documentación y calidad de código (docstrings, buenas prácticas)
+
+Fundamentos de estadística y probabilidad aplicada al análisis de datos con Python
+
+Análisis exploratorio de datos
+
+Técnicas de visualización y análisis estadístico univariado/multivariado: media, moda, mediana, desviación estándar, regresión, PCA
+
+Ejercicios prácticos y ejemplos resueltos en Python.
+
+Base de Datos II
+Fundamentos y Temario:
+
+Introducción a bases de datos relacionales
+
+Diseño y normalización de tablas
+
+SQL práctico: consultas SELECT, INSERT, UPDATE, DELETE, JOINs
+
+Importar y manipular datos CSV en MySQL
+
+Ejercicios de modelado y consulta SQL
+
+Bases de Datos NoSQL: conceptos, usos y principales motores
+
+Videos cortos con ejercicios y resoluciones prácticas
+
+Material de lectura y apuntes de la materia
+
+Análisis de calidad, integridad y optimización de bases de datos.
+
+Evidencia de Aprendizaje 3 (ETL con Pandas)
+Resumen de lo que piden:
+
+Desarrollar un trabajo práctico sobre Innovación y Gestión de Datos.
+
+El enfoque está en aplicar ETL (Extracción, Transformación y Carga) usando Pandas en Python.
+
+Debes utilizar material de estudio y audiovisual compartido en el aula, siguiendo la planificación docente.
+
+Se evalúa la entrega sobre la base de una rúbrica, siendo desaprobado cualquier trabajo debajo del 60%.
+
+Proyecto Final ABP (Aprendizaje Basado en Proyectos)
+Resumen de lo que piden:
+
+Realizar el Proyecto Final ABP relacionado con Innovación y Gestión de Datos, en modalidad grupal.
+
+Se entrega mediante la plataforma en la sección "Proyecto Final ABP".
+
+La estructura del proyecto sigue una guía/referencia provista por el docente (puede incluir introducción, desarrollo, resultados, conclusiones, bibliografía).
+
+Además, se requiere la defensa oral en la fecha y horario pautado por grupo.
+
+Material de ayuda: video, estructura modelo y rúbrica para el póster y presentación.
+
+Cualquier calificación bajo 60% es desaprobado.
